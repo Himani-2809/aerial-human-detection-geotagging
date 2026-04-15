@@ -56,13 +56,13 @@ geotagging under aerial operating conditions**, aligning with search-and-rescue 
 
 ### Live Detection — 40m Altitude
 
-![Detection 1](docs/images/detection_1.png)
+![Detection 1](docs/images/Detection_1.png)
 
-![Detection 2](docs/images/detection_2.png)
+![Detection 2](docs/images/Detection_2.png)
 
-![Detection 3](docs/images/detection_3.png)
+![Detection 3](docs/images/Detection_3.png)
 
-![Detection 4](docs/images/detection_4.png)
+![Detection 4](docs/images/Detection_4.png)
 
 *Real-time human detection with persistent Person ID and Track ID assignment*
 
