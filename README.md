@@ -56,19 +56,19 @@ geotagging under aerial operating conditions**, aligning with search-and-rescue 
 
 ### Live Detection — 40m Altitude
 
-![Detection 1](docs/images/detection_1.jpg)
+![Detection 1](docs/images/detection_1.png)
 
-![Detection 2](docs/images/detection_2.jpg)
+![Detection 2](docs/images/detection_2.png)
 
-![Detection 3](docs/images/detection_3.jpg)
+![Detection 3](docs/images/detection_3.png)
 
-![Detection 4](docs/images/detection_4.jpg)
+![Detection 4](docs/images/detection_4.png)
 
 *Real-time human detection with persistent Person ID and Track ID assignment*
 
 ### Geotagged Locations — COEP Ground
 
-![Geotag Map](docs/images/Geotag_Map.jpg)
+![Geotag Map](docs/images/Geotag_Map.png)
 
 *Final per-person GPS coordinates plotted on satellite imagery post-flight*
 
